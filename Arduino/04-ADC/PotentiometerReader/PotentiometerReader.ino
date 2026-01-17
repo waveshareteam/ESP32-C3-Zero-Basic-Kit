@@ -8,6 +8,7 @@
   - Potentiometer -> GPIO 4
 
   Link:
+  - Tutorial [EN]: https://docs.waveshare.com/ESP32-Arduino-Tutorials/Analog-Input
   - Tutorial [ZH]: https://docs.waveshare.net/ESP32-Arduino-Tutorials/Analog-Input
 */
 

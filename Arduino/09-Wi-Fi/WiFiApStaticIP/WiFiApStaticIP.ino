@@ -6,6 +6,7 @@
                It also monitors station connections and disconnections.
 
   Link:
+  - Tutorial [EN]: https://docs.waveshare.com/ESP32-Arduino-Tutorials/WiFi-Networking-Basic
   - Tutorial [ZH]: https://docs.waveshare.net/ESP32-Arduino-Tutorials/WiFi-Networking-Basic
 */
 

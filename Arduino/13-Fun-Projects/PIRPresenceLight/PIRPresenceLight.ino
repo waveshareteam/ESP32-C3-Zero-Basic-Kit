@@ -14,6 +14,7 @@
   - WS2812 DI -> GPIO 7
 
   Link:
+  - Tutorial [EN]: https://docs.waveshare.com/ESP32-Arduino-Tutorials/13-3-Presence-Light
   - Tutorial [ZH]: https://docs.waveshare.net/ESP32-Arduino-Tutorials/13-3-Presence-Light
 */
 

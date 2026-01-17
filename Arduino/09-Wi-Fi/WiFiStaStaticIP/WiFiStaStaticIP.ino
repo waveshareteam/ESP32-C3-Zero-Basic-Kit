@@ -5,6 +5,7 @@
                It configures a static IP, gateway, and subnet before connecting to the network.
 
   Link:
+  - Tutorial [EN]: https://docs.waveshare.com/ESP32-Arduino-Tutorials/WiFi-Networking-Basic
   - Tutorial [ZH]: https://docs.waveshare.net/ESP32-Arduino-Tutorials/WiFi-Networking-Basic
 */
 

@@ -4,6 +4,7 @@
   Description: Scans for I2C devices on the I2C bus and prints their addresses to the Serial Monitor.
 
   Link:
+  - Tutorial [EN]: https://docs.waveshare.com/ESP32-Arduino-Tutorials/I2C-Communication
   - Tutorial [ZH]: https://docs.waveshare.net/ESP32-Arduino-Tutorials/I2C-Communication
 */
 

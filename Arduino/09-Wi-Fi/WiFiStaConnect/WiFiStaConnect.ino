@@ -5,6 +5,7 @@
                It connects using a provided SSID and password, and prints the assigned IP address upon success.
 
   Link:
+  - Tutorial [EN]: https://docs.waveshare.com/ESP32-Arduino-Tutorials/WiFi-Networking-Basic
   - Tutorial [ZH]: https://docs.waveshare.net/ESP32-Arduino-Tutorials/WiFi-Networking-Basic
 */
 

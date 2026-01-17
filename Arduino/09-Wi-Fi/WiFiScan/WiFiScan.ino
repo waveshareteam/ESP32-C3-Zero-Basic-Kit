@@ -6,6 +6,7 @@
                It prints the SSID, RSSI, channel, and encryption type of each found network to the Serial Monitor.
 
   Link:
+  - Tutorial [EN]: https://docs.waveshare.com/ESP32-Arduino-Tutorials/WiFi-Networking-Basic
   - Tutorial [ZH]: https://docs.waveshare.net/ESP32-Arduino-Tutorials/WiFi-Networking-Basic
 */
 

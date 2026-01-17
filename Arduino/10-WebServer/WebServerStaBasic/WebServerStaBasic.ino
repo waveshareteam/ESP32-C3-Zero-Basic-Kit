@@ -4,6 +4,7 @@
   Description: Connects to Wi-Fi in Station mode and serves a simple "Hello from ESP32!" message on the root path.
 
   Link:
+  - Tutorial [EN]: https://docs.waveshare.com/ESP32-Arduino-Tutorials/Web-Server
   - Tutorial [ZH]: https://docs.waveshare.net/ESP32-Arduino-Tutorials/Web-Server
 */
 

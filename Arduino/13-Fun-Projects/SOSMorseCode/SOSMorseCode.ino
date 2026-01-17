@@ -9,6 +9,7 @@
   - Buzzer -> GPIO 7
   
   Link:
+  - Tutorial [EN]: https://docs.waveshare.com/ESP32-Arduino-Tutorials/13-2-SOS
   - Tutorial [ZH]: https://docs.waveshare.net/ESP32-Arduino-Tutorials/13-2-SOS
 */
 

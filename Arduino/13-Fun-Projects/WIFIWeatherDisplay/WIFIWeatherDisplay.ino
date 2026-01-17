@@ -18,6 +18,7 @@
     - OLED DC -> GPIO 6
 
   Link:
+  - Tutorial [EN]: https://docs.waveshare.com/ESP32-Arduino-Tutorials/13-6-Weather-Display
   - Tutorial [ZH]: https://docs.waveshare.net/ESP32-Arduino-Tutorials/13-6-Weather-Display
 */
 

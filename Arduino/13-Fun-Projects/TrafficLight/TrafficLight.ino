@@ -11,6 +11,7 @@
   - Green LED  -> GPIO 8
 
   Link:
+  - Tutorial [EN]: https://docs.waveshare.com/ESP32-Arduino-Tutorials/13-1-Traffic-Light
   - Tutorial [ZH]: https://docs.waveshare.net/ESP32-Arduino-Tutorials/13-1-Traffic-Light
 */
 
