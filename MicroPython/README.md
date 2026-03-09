@@ -1,14 +1,16 @@
-# MicroPython 示例代码
+# MicroPython Examples
 
-## 烧录固件
+[中文](README_ZH.md)
 
-固件下载地址：https://micropython.org/download/ESP32_GENERIC_C3/
+## Flash Firmware
 
-烧录固件请参考：https://docs.waveshare.net/ESP32-MicroPython-Tutorials/Getting-Started/#2-%E9%85%8D%E7%BD%AE%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83
+Firmware download: https://micropython.org/download/ESP32_GENERIC_C3/
 
-## 教程资源
+For flashing instructions, please refer to: https://docs.waveshare.com/ESP32-MicroPython-Tutorials/Getting-Started
 
-> [!NOTE]  
-> 以下教程的核心逻辑适用于所有 ESP32 开发板，但教程中的示例均基于 ESP32-S3-Zero 迷你开发板延时。针对 ESP32-C3-Zero，请参考示例文件夹中的接线图和代码注释中的接线说明。
+## Tutorial Resources
 
-- **文档教程**：https://docs.waveshare.net/ESP32-MicroPython-Tutorials
+> [!NOTE]
+> The core logic of the following tutorials applies to all ESP32 development boards, but the examples in the tutorials are based on the ESP32-S3-Zero mini development board. For the ESP32-C3-Zero, please refer to the wiring diagrams in the example folders and the wiring instructions in the code comments.
+
+- **Documentation Tutorial**: https://docs.waveshare.com/ESP32-MicroPython-Tutorials
